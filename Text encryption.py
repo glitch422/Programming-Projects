@@ -8,10 +8,10 @@ def encrypt_text(text, key):
   cipher = Fernet(key)
 
   #Encode the text to bytes
-  encode_text = text.encode()
+  encoded_text = text.encode()
 
   #Encrypt the text with the key
-  encrypted_text = cipher.encrypt(encodde_text)
+  encrypted_text = cipher.encrypt(encoded_text)
 
   #Return the base64-encoded encrypted text
   return encrypted_text.decode()
