@@ -2,6 +2,7 @@
 
 I'm Idan, a hacker with expertise in various programming languages and a strong background in computer science.
 
+![Profile Image]([url_to_your_image](https://unsplash.com/photos/black-remote-control-on-red-table-6sAl6aQ4OWI))
 ## Skills
 
 - Python
